@@ -7,4 +7,4 @@ if(!isDedicated){
 		waitUntil{vehicle player == player && time > 5};
 		[] execVM "scripts\add_action_menu.sqf";
 	};	
-}
+};
