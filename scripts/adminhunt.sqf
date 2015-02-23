@@ -1,4 +1,4 @@
-private ["_pname","_marker",_msgstr];
+private ["_pname","_marker","_msgstr"];
 
 _pname = name player;
 
